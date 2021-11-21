@@ -1,5 +1,5 @@
 # EyeMovement-Exercise
-
+![alt text](https://github.com/HarpSkye/EyeMovement-Exercise/blob/main/eyes.png)
 ## Description:
 A pair of googly eyes that follows your mouse movement. 
 <br><br>
