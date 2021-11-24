@@ -1,7 +1,7 @@
 # EyeMovement-Exercise
 ![alt text](https://github.com/HarpSkye/EyeMovement-Exercise/blob/main/eyes.png)
 ## Description:
-A pair of googly eyes that follows your mouse movement. 
+A pair of googly eyes that follows your mouse movement on vanilla Javascript and CSS. 
 <br><br>
 Built with:
 - Javascript
